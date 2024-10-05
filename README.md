@@ -1,4 +1,5 @@
-# ConfidantInformationForPersona5Royale
+# Read Me
+# p5r-Confidant-Information-Grabber
  Helps quickly get information about confidants in p5r
 
  Character name guide to help with inputing names
