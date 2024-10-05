@@ -1,0 +1,1 @@
+# ConfidantInformationForPersona5Royale
